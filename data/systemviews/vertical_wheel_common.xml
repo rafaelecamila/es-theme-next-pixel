@@ -16,27 +16,27 @@
 			<image name="system_carousel_border" extra="true">
 				<origin>1 .5</origin>
 				<maxSize>2 1</maxSize>
-				<pos>.999 .5</pos>
+				<pos>.998 .5</pos>
 				<path>./../arts/system_carousel_vertical_wheel_border.png</path>
 			</image>
 		
 			<carousel name="systemcarousel">
 				<type>vertical_wheel</type>
-				<pos>.9 .5</pos>
+				<pos>.874 .5</pos>
 				<origin>1 .5</origin>
 				<size>1 1</size>
 				<color>00000000</color>
 				<logoScale>2</logoScale>
-				<logoSize>1 .05</logoSize>
-				<logoRotation>-10</logoRotation>
-				<logoRotationOrigin>2.8 .5</logoRotationOrigin>
+				<logoSize>1 .04</logoSize>
+				<logoRotation>-8</logoRotation>
+				<logoRotationOrigin>3.9 .5</logoRotationOrigin>
 				<maxLogoCount>7</maxLogoCount>
 				<logoAlignment>right</logoAlignment>
 				<color>ffffff00</color>
 			</carousel>
 
 			<image name="systemInfoBackground" extra="true">
-				<pos>.91 .57</pos>
+				<pos>.9 .57</pos>
 				<origin>.5 0</origin>
 				<size>.2 .03</size>
 				<path>./../arts/system_info_background_gradient.png</path>
@@ -45,7 +45,7 @@
 			<text name="systemInfo">
 				<origin>.5 0</origin>
 				<alignment>center</alignment>
-				<pos>.91 .58</pos>
+				<pos>.9 .58</pos>
 				<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
 				<fontSize>.021</fontSize>
 				<size>.16 .01</size>
@@ -66,7 +66,7 @@
 		</image>
 		
 		<image name="console" extra="true">
-			<pos>.91 .55</pos>
+			<pos>.9 .55</pos>
 			<maxSize>.15 .24</maxSize>
 			<origin>.5 1</origin>
 			<zIndex>20</zIndex>

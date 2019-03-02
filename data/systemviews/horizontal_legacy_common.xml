@@ -16,7 +16,7 @@
 				<pos>0 .405</pos>
 				<size>1 .185</size>
 				<logoScale>2</logoScale>
-				<logoSize>1 .05</logoSize>
+				<logoSize>1 .04</logoSize>
 				<color>ffffff00</color>
 			</carousel>
 			
@@ -58,7 +58,7 @@
 		</image>
 		
 		<image name="console" extra="true">
-			<pos>.98 .82</pos>
+			<pos>.97 .82</pos>
 			<maxSize>.20 .20</maxSize>
 			<origin>1 .5</origin>
 		</image>
