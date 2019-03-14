@@ -31,7 +31,7 @@
 		
 		<image name="controller" extra="true">
 			<path>./../../$system/data/controller.svg</path>
-			<pos>.985 .905</pos>
+			<pos>.985 .925</pos>
 			<origin>1 1</origin>
 			<maxSize>.08 1</maxSize>
 			<zIndex>6</zIndex>
@@ -60,7 +60,7 @@
 			<alignment>left</alignment>
 			<horizontalMargin>.12</horizontalMargin>
 			<selectorImagePath>./../arts/gamelist_textlist_selector_background.png</selectorImagePath>
-			<fontSize>.028</fontSize>
+			<fontSize>.026</fontSize>
 			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<zIndex>20</zIndex>
 		</textlist>
@@ -84,9 +84,9 @@
 		<text name="md_folder_name">
             <forceUppercase>1</forceUppercase>
             <fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
-            <fontSize>0.03</fontSize>
+            <fontSize>.03</fontSize>
             <size>0 0</size>
-            <pos>0.37 0.9</pos>
+            <pos>.37 .9</pos>
 			<origin>.5 1</origin>
 			<alignment>center</alignment>
 			<zIndex>45</zIndex>
@@ -118,13 +118,13 @@
 		<text name="md_rating, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
 			<pos>2 2</pos>
 			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			<fontSize>.027</fontSize>
+			<fontSize>.025</fontSize>
 		</text>
 		
-		<datetime name="releasedate, md_lastplayed">
+		<datetime name="md_releasedate, md_lastplayed">
 			<pos>2 2</pos>
 			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			<fontSize>.027</fontSize>
+			<fontSize>.025</fontSize>
 		</datetime>
 		
 	</view>

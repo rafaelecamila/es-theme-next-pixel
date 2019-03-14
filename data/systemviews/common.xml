@@ -10,7 +10,7 @@
 		
 			<carousel name="systemcarousel">
 				<logoScale>2</logoScale>
-				<logoSize>1 .05</logoSize>
+				<logoSize>1 .04</logoSize>
 				<color>ffffff00</color>
 			</carousel>
 			
