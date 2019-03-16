@@ -30,8 +30,7 @@
 		</image>
 		
 		<datetime name="md_releasedate">
-			<pos>.587 .335</pos>
-			<pos>.637 .33</pos>
+			<pos>.607 .334</pos>
 		</datetime>
 		
 		<image name="publisher_logo" extra="true">
