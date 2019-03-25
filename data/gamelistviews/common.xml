@@ -134,7 +134,7 @@
 	
 		<image name="consolegame" extra="true">
 			<path>./../../$system/data/consolegame.svg</path>
-			<pos>.02 .9</pos>
+			<pos>.02 .91</pos>
 			<maxSize>1 .2</maxSize>
 			<origin>0 1</origin>
 			<zIndex>50</zIndex>
