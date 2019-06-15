@@ -21,7 +21,7 @@
 	<view name="system">
 	
 		<helpsystem name="help">
-			<fontPath>./data/arts/steelfishrg.ttf</fontPath>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>
 			<fontSize>.042</fontSize>
 			<pos>.02 .945</pos>
 		</helpsystem>
