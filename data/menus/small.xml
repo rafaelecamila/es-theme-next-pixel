@@ -5,19 +5,19 @@
 	<view name="menu">
 	
 		<menuText name="menufooter">
-			<fontSize>.025</fontSize>
-		</menuText>
-		
-		<menuText name="menutext">
 			<fontSize>.035</fontSize>
 		</menuText>
 		
+		<menuText name="menutext">
+			<fontSize>.042</fontSize>
+		</menuText>
+		
 		<menuTextSmall name="menutextsmall">
-			<fontSize>.028</fontSize>
+			<fontSize>.04</fontSize>
 		</menuTextSmall>
 		
 		<menuText name="menutitle">
-			<fontSize>.04</fontSize>
+			<fontSize>.045</fontSize>
 		</menuText>
 		
 	</view>

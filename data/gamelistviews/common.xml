@@ -60,7 +60,7 @@
 			<alignment>left</alignment>
 			<horizontalMargin>.12</horizontalMargin>
 			<selectorImagePath>./../arts/gamelist_textlist_selector_background.png</selectorImagePath>
-			<fontSize>.026</fontSize>
+			<fontSize>.042</fontSize>
 			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<zIndex>20</zIndex>
 		</textlist>
@@ -118,14 +118,14 @@
 		<text name="md_rating, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
 			<pos>2 2</pos>
 			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			<fontSize>.025</fontSize>
+			<fontSize>.042</fontSize>
 		</text>
 		
 		<datetime name="md_releasedate, md_lastplayed">
 			<pos>2 2</pos>
 			<!-- since we can't right aligned we need a font where all chars have same width, just use default font for now as it matches that requirement -->
 			<!--<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>-->
-			<fontSize>.025</fontSize>
+			<fontSize>.042</fontSize>
 		</datetime>
 		
 	</view>

@@ -10,7 +10,7 @@
 		
 			<carousel name="systemcarousel">
 				<logoScale>2</logoScale>
-				<logoSize>1 .04</logoSize>
+				<logoSize>1 .05</logoSize>
 				<color>ffffff00</color>
 			</carousel>
 			
@@ -19,8 +19,7 @@
 			</image>
 
 			<text name="systemInfo">
-				<origin>.5 .5</origin>
-				<alignment>center</alignment>
+				<pos>2 2</pos>
 			</text>
 
 		</view>

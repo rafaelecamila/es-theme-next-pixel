@@ -6,13 +6,13 @@
 	
 		<menuText name="menufooter">
 			<fontPath>./../arts/Raleway-Bold.ttf</fontPath>
-			<fontSize>.025</fontSize>
+			<fontSize>.035</fontSize>
 			<color>777777ff</color>
 		</menuText>
 		
 		<menuText name="menutext">
 			<fontPath>./../arts/OpenSans-CondLight.ttf</fontPath>
-			<fontSize>.035</fontSize>
+			<fontSize>.042</fontSize>
 			<color>555555ff</color>
 			<separatorColor>555555ff</separatorColor>
 			<selectorColor>555555ff</selectorColor>
@@ -21,13 +21,13 @@
 		
 		<menuTextSmall name="menutextsmall">
 			<fontPath>./../arts/OpenSans-CondLight.ttf</fontPath>
-			<fontSize>.028</fontSize>
+			<fontSize>.04</fontSize>
 			<color>555555ff</color>
 		</menuTextSmall>
 		
 		<menuText name="menutitle">
 			<fontPath>./../arts/Raleway-Bold.ttf</fontPath>
-			<fontSize>.04</fontSize>
+			<fontSize>.045</fontSize>
 			<color>777777ff</color>
 		</menuText>
 		

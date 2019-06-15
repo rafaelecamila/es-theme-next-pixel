@@ -6,13 +6,13 @@
 	
 		<menuText name="menufooter">
 			<fontPath>./../arts/Bariol_Regular_Italic.otf</fontPath>
-			<fontSize>.025</fontSize>
+			<fontSize>.035</fontSize>
 			<color>808080ff</color>
 		</menuText>
 		
 		<menuText name="menutext">
 			<fontPath>./../arts/Bariol_Regular.otf</fontPath>
-			<fontSize>.035</fontSize>
+			<fontSize>.042</fontSize>
 			<color>35495eff</color>
 			<separatorColor>35495eff</separatorColor>
 			<selectorColor>35495eff</selectorColor>
@@ -21,13 +21,13 @@
 		
 		<menuTextSmall name="menutextsmall">
 			<fontPath>./../arts/Bariol_Regular.otf</fontPath>
-			<fontSize>.028</fontSize>
+			<fontSize>.04</fontSize>
 			<color>35495eff</color>
 		</menuTextSmall>
 		
 		<menuText name="menutitle">
 			<fontPath>./../arts/Bariol_Regular.otf</fontPath>
-			<fontSize>.04</fontSize>
+			<fontSize>.045</fontSize>
 			<color>35495eff</color>
 		</menuText>
 		
