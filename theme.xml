@@ -3,6 +3,7 @@
 	<formatVersion>4</formatVersion>
 	<include>./data/config.xml</include>
 	<include>./$system/data/custom.xml</include>
+	<include>./data/menus/next_pixel.xml</include>
 	
 	<view name="system">
 	
