@@ -84,7 +84,7 @@
 		<text name="md_folder_name">
             <forceUppercase>1</forceUppercase>
             <fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
-            <fontSize>.03</fontSize>
+            <fontSize>.042</fontSize>
             <size>0 0</size>
             <pos>.37 .9</pos>
 			<origin>.5 1</origin>
