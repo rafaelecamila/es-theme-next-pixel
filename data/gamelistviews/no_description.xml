@@ -21,8 +21,8 @@
 		</image>
 		
 		<video name="md_video">
-			<pos>.31 .48</pos>
-			<maxSize>.55 .85</maxSize>
+			<pos>.3 .48</pos>
+			<maxSize>.5 .85</maxSize>
 		</video>
 		
 	</view>

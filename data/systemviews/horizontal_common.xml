@@ -25,7 +25,7 @@
 			</image>
 
 			<text name="systemInfo">
-				<pos>.5 .626</pos>
+				<pos>.5 .628</pos>
 				<fontSize>.021</fontSize>
 				<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			</text>

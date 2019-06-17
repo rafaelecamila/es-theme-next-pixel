@@ -40,7 +40,7 @@
 	<view name="basic, detailed">
 	
 		<image name="controller" extra="true">
-			<pos>.985 .895</pos>
+			<pos>.985 .91</pos>
 		</image>
 		
 	</view>

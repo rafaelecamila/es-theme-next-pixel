@@ -37,7 +37,7 @@
 			<pos>.979 .98</pos>
 		</image>
 		<image name="controller" extra="true" region="us">
-			<pos>.985 .888</pos>
+			<pos>.985 .912</pos>
 		</image>
 		<image name="logo" extra="true" region="jp">
 			<pos>.979 .98</pos>

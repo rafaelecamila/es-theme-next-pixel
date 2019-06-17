@@ -22,8 +22,8 @@
 		</image>
 		
 		<video name="md_video">
-			<pos>.32 .4</pos>
-			<maxSize>.55 .7</maxSize>
+			<pos>.3 .4</pos>
+			<maxSize>.5 .7</maxSize>
 		</video>
 		
 		<text name="md_description">

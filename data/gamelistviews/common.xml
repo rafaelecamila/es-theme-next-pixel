@@ -31,7 +31,7 @@
 		
 		<image name="controller" extra="true">
 			<path>./../../$system/data/controller.svg</path>
-			<pos>.985 .925</pos>
+			<pos>.985 .905</pos>
 			<origin>1 1</origin>
 			<maxSize>.1 1</maxSize>
 			<zIndex>6</zIndex>
