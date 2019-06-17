@@ -37,7 +37,7 @@
 	<view name="basic, detailed">
 	
 		<image name="controller" extra="true">
-			<pos>.95 .925</pos>
+			<pos>.935 .905</pos>
 			<maxSize>.045 1</maxSize>
 		</image>
 		

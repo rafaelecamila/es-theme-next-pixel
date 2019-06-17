@@ -23,7 +23,7 @@
 	
 		<helpsystem name="help">
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>
-			<fontSize>.042</fontSize>
+			<fontSize>.045</fontSize>
 			<pos>.02 .945</pos>
 		</helpsystem>
 		

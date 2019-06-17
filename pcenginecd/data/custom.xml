@@ -33,11 +33,12 @@
 	
 	<view name="basic, detailed">
 	
-		<image name="logo" extra="true" region="eu">
-			<pos>.972 .98</pos>
+		<image name="controller" extra="true">
+			<pos>.985 .922</pos>
+			<maxSize>.09 1</maxSize>
 		</image>
-		<image name="logo" extra="true" region="jp">
-			<pos>.972 .98</pos>
+		<image name="controller" extra="true" region="us">
+			<pos>.985 .912</pos>
 		</image>
 		
 	</view>
