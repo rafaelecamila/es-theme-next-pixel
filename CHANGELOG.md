@@ -1,6 +1,7 @@
 ### Changelog
 2019/06/xx - 1.1
 - Add support for small 4:3 screens with new crt 240p package (320x240 px)
+- Add openbor support
 - Add palm support
 - Add x1 support
 - Add spectravideo support
@@ -14,10 +15,12 @@
 - Add ps3 support
 - Add wiiu support
 - Add megadrive game theme alternative (may match mastersystem and gamegear as well)
+- Add gameboy game theme alternative
 - Add video scraping support
 - Change segacd game theme (old one still available as alternative)
 - Update Imageviewer game theme
 - Update system info release dates
+- Limit logo width to get better consistency with all logos size
 - Fix game date info alignment from gamelist view
 - Adjust images so every "pixel squares" are perfectly aligned across all images
 - Make psp music a bit louder
