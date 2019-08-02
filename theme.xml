@@ -2,13 +2,13 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./data/config.xml</include>
-	<include>./$system/data/custom.xml</include>
+	<include>./data/systems/$system/custom.xml</include>
 	
 	<view name="system">
 	
 		<!-- default music when system music is missing -->
 		<sound name="directory">
-			<path>./music</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/music</path>
 		</sound>
 		
 		<!-- system music -->
