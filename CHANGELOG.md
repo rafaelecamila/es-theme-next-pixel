@@ -1,11 +1,19 @@
 ### Changelog
 2019/xx/xx - 1.2
 - Add pc88 support
-- Fix missing random theme console and remove useless game info from gamelist view
-- Make all musics louder too match default recalbox musics loudness
-- Move [system]/data folder to data/systems/[system] to make easier moving a game theme to another system
 - Add a decent theme for default system (when theme is missing)
+- Add ps3 game theme alternative
+- Add nes game theme alternative
+- Add 2 n64 game themes alternative
+- Add snes game theme alternative
+- Change nds game theme (old one still available as alternative but with a different image)
+- Invert fba_libretro/mame game themes to match recalbox next theme console logos
+- Fix missing random theme console and remove useless game info from gamelist view
+- Fix gb2 logo border
+- Make all musics louder too match default recalbox musics loudness
+- Improve gx4000 logo contrast
 - Minor update to nes system image
+- Smooth some noisy images
 
 2019/06/22 - 1.1
 - Add support for small 4:3 screens with new crt 240p package (320x240 px)
