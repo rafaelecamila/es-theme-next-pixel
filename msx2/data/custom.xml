@@ -38,6 +38,7 @@
 	
 		<image name="controller" extra="true">
 			<pos>.966 .905</pos>
+			<maxSize>.105 1</maxSize>
 		</image>
 		
 	</view>
