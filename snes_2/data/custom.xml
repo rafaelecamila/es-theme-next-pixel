@@ -46,7 +46,7 @@
 			<maxSize>.095 1</maxSize>
 		</image>
 		<image name="controller" extra="true" region="jp">
-			<pos>.98 .895</pos>
+			<pos>.98 .91</pos>
 		</image>
 		
 	</view>
