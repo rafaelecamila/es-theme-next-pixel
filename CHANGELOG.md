@@ -1,5 +1,5 @@
 ### Changelog
-2019/xx/xx - 1.2
+2019/09/27 - 1.2
 - Add pc88 support
 - Add multivision support
 - Add solarus support
@@ -14,6 +14,7 @@
 - Add gb game theme alternative
 - Add wii game theme alternative (using old game theme from snes/satellaview)
 - Add several custom rating icons
+- Add roms sub folders scraped images mosaic
 - Remove msx support (was use as a global system for msx1, mx2 and msx2+ systems, each system now has its own folder)
 - Remove lynx alternative game theme as it is already available from samcoupe
 - Change mame game theme using old arcade one (old mame game theme still available from uzebox)
