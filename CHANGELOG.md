@@ -1,4 +1,7 @@
 ### Changelog
+2019/10/02 - 1.2.1
+- Normalize musics to match recent change from recalbox-next ones
+
 2019/09/27 - 1.2
 - Add pc88 support
 - Add multivision support
