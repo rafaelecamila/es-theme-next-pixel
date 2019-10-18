@@ -139,7 +139,7 @@
 			<origin>.5 .5</origin>
 			<zIndex>71</zIndex>
 		</video>
-		
+	
 		<rating name="md_rating">
 			<filledPath>./../../$system/icon_filled.svg</filledPath>
 			<unfilledPath>./../../$system/icon_empty.svg</unfilledPath>
