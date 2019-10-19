@@ -4,8 +4,8 @@
 	<include>./common.xml</include>
 	<include>./common_info.xml</include>
 	<include>./common_description.xml</include>
-	<include>./common_video.xml</include>
-	<include>./../../$system/data/custom_video_standard.xml</include>
+	<include>./common_next_pixel_mix.xml</include>
+	<include>./../../$system/data/custom_standard_next_pixel_mix.xml</include>
 	
 	
 	<view name="detailed">
