@@ -3,7 +3,7 @@
 	<formatVersion>4</formatVersion>
 	
 	<view name="detailed">
-
+	
 		<image name="md_image">
 			<origin>0 .5</origin>
 			<pos>0 .5</pos>
