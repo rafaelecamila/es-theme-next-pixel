@@ -10,7 +10,7 @@
 	<view name="detailed">
 		
 		<rating name="md_rating">
-			<pos>.372 .09</pos>
+			<pos>.371 .09</pos>
 		</rating>
 		
 	</view>
