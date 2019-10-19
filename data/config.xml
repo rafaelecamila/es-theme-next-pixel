@@ -23,7 +23,9 @@
 	<include subset="systemview" name="2-horizontal">./systemviews/horizontal_common.xml</include>
 	<include subset="systemview" name="3-horizontal legacy">./systemviews/horizontal_legacy_common.xml</include>
 	
-	<include subset="gamelistview" name="1-standard">./gamelistviews/standard.xml</include>
-	<include subset="gamelistview" name="2-no info">./gamelistviews/no_info.xml</include>
+	<include subset="gamelistview" name="1a-picture only with Next Pixel mix">./gamelistviews/picture_only_next_pixel_mix.xml</include>
+	<include subset="gamelistview" name="1b-picture only with others mixes">./gamelistviews/picture_only.xml</include>
+	<include subset="gamelistview" name="2a-standard with Next Pixel mix">./gamelistviews/standard_next_pixel_mix.xml</include>
+	<include subset="gamelistview" name="2b-standard with others mixes">./gamelistviews/standard.xml</include>
 	
 </theme>
