@@ -86,7 +86,7 @@
             <fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
             <fontSize>.03</fontSize>
             <size>0 0</size>
-            <pos>.37 .9</pos>
+            <pos>.31429 .9</pos>
 			<origin>.5 1</origin>
 			<alignment>center</alignment>
 			<zIndex>45</zIndex>
@@ -99,31 +99,31 @@
         </image>
         
         <image name="md_folder_image_0">
-            <pos>.2 .2</pos>
+            <pos>.14429 .2</pos>
         </image>
 		<image name="md_folder_image_1">
-            <pos>.37 .2</pos>
+            <pos>.31429 .2</pos>
         </image>
 		<image name="md_folder_image_2">
-            <pos>.54 .2</pos>
+            <pos>.48429 .2</pos>
         </image>
 		<image name="md_folder_image_3">
-            <pos>.2 .45</pos>
+            <pos>.14429 .45</pos>
         </image>
 		<image name="md_folder_image_4">
-            <pos>.37 .45</pos>
+            <pos>.31429 .45</pos>
         </image>
 		<image name="md_folder_image_5">
-            <pos>.54 .45</pos>
+            <pos>.48429 .45</pos>
         </image>
 		<image name="md_folder_image_6">
-            <pos>.2 .7</pos>
+            <pos>.14429 .7</pos>
         </image>
 		<image name="md_folder_image_7">
-            <pos>.37 .7</pos>
+            <pos>.31429 .7</pos>
         </image>
 		<image name="md_folder_image_8">
-            <pos>.54 .7</pos>
+            <pos>.48429 .7</pos>
         </image>
 		
 	</view>
