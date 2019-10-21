@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /recalbox/share/themes/es-theme-next-pixel/
+cd /recalbox/share/themes/es-theme-next-pixel-480p/
 for d in * ; do
     echo "$d"
 	index=2
