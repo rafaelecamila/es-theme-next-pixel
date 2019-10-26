@@ -1,6 +1,6 @@
 <theme>
-    <formatVersion>4</formatVersion>
-	
+	<formatVersion>4</formatVersion>
+
 	<include subset="colorset" name="1a-light with game accent">./colorsets/light_game_accent.xml</include>
 	<include subset="colorset" name="1b-light">./colorsets/light.xml</include>
 	<include subset="colorset" name="2a-dark with game accent">./colorsets/dark_game_accent.xml</include>
@@ -10,7 +10,7 @@
 	<include subset="colorset" name="4b-light system, dark gamelist">./colorsets/light_system_dark_gamelist.xml</include>
 	<include subset="colorset" name="5a-dark system, light gamelist, with game accent">./colorsets/dark_system_light_gamelist_game_accent.xml</include>
 	<include subset="colorset" name="5b-dark system, light gamelist">./colorsets/dark_system_light_gamelist.xml</include>
-	
+
 	<include subset="iconset" name="1-standard icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/default.xml</include>
 	<include subset="iconset" name="2-snes">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snes.xml</include>
 	<include subset="iconset" name="3-snes alt">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snesalt.xml</include>
@@ -18,14 +18,14 @@
 	<include subset="iconset" name="5-psx">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/psx.xml</include>
 	<include subset="iconset" name="6-xbox one">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xboxone.xml</include>
 	<include subset="iconset" name="7-arcade">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/arcade.xml</include>
-	
+
 	<include subset="systemview" name="1-vertical wheel">./systemviews/vertical_wheel_common.xml</include>
 	<include subset="systemview" name="2-horizontal">./systemviews/horizontal_common.xml</include>
 	<include subset="systemview" name="3-horizontal legacy">./systemviews/horizontal_legacy_common.xml</include>
-	
+
 	<include subset="gamelistview" name="1a-picture only with Next Pixel mix">./gamelistviews/picture_only_next_pixel_mix.xml</include>
 	<include subset="gamelistview" name="1b-picture only with others mixes">./gamelistviews/picture_only.xml</include>
 	<include subset="gamelistview" name="2a-standard with Next Pixel mix">./gamelistviews/standard_next_pixel_mix.xml</include>
 	<include subset="gamelistview" name="2b-standard with others mixes">./gamelistviews/standard.xml</include>
-	
+
 </theme>

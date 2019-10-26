@@ -1,15 +1,15 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	
+
 	<view name="detailed">
-	
+
 		<rating name="md_rating">
 			<origin>.5 .5</origin>
 			<size>0 .037</size>
 			<pos>.325 .062</pos>
 		</rating>
-		
+
 		<image name="players_logo" extra="true">
 			<origin>.5 .5</origin>
 			<pos>.72 .5</pos>
@@ -17,13 +17,13 @@
 			<path>./../arts/game_info_players.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<text name="md_players">
 			<pos>.575 .5</pos>
 			<size>.11 .01</size>
 			<alignment>right</alignment>
 		</text>
-		
+
 	</view>
-	
+
 </theme>
