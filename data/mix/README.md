@@ -1,3 +1,6 @@
+### Next Pixel mix
+Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like Skraper. Better than a long description here some captures:
+
 ![gamegear](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamegear.gif)
 
 ![gb](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gb.gif)
@@ -8,11 +11,8 @@
 
 ![pokemini](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pokemini.gif)
 
-### Next Pixel mix
-Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like Skraper. Better than a long description here some captures:
-
 Known issues using Next Pixel mix:
-- Next Pixel mix uses some overlay on top of your scraped images to make your screenshots/videos appear like they were displayed on a screen (tv/monitor), unfortunately these overlay will appear also for your folder. If you don't use folders this won't be a issue. Note this issue may be fixed in a future Recalbox release.
+- Next Pixel mix uses some overlay on top of your scraped images to make your screenshots/videos appear like they were displayed on a screen (tv/monitor), unfortunately these overlay will appear also for your folders. If you don't use folders this won't be a issue. Note this issue may be fixed in a future Recalbox release.
 - For Favorites system videos won't always matched scraped screenshot size as favorites may contain different systems and each systems may have a different resolution. Due to this restriction overlay mention aboved won't be display for Favorites system and so integration may look a bit sloppy here.
 
 ### Installation
@@ -33,7 +33,7 @@ First you need to make sure Next Pixel theme is installed since custom mix files
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/2.png)
 
 **Warning this means that if you switch package later on you should scrap your games again, since each packages use an optimized mix for its resolution**.
-For **Raspberry Pi users** with low memory (2go or less) using **720p package**, if you have memory issues you may reduce scrap image resolution. To do so resize images as following: 
+For **Raspberry Pi users** with low memory (2go or less) using **720p package**, if you have memory issues you may reduce scrap image resolution. To do so resize images as following (note this is not required if you are using 480p package since its mix will already be set to generate 480p images): 
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/3.png)
 
@@ -43,26 +43,6 @@ For **Raspberry Pi users** with low memory (2go or less) using **720p package**,
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/4.png)
 
-- Since videos are space consuming you should optimize their size depending on your package:
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/5.png)
-
-- Here are recommanded values, but you may adjust with you own needs as long as you **Keep image ratio** checked.
-  * With **1080p** package
-    * **high quality** but space consuming **640x480**
-    * **medium quality** with less space impact **320x240**
-  * With **720p** package
-    * **high quality** but space consuming **440x330**
-    * **medium quality** with less space impact **220x165**
-  * With **480p** package
-    * **high quality** but space consuming **280x210**
-    * **medium quality** with less space impact **140x105**
-  * With **crt** package
-    * **high quality** but space consuming **320x240**
-    * **medium quality** with less space impact **160x120**
-  * With **crt small** package
-    * **high quality** but space consuming **120x90**
-    * **medium quality** with less space impact **60x45**
 - You're done, you can launch your scrap.
 - Make sure you have selected a next pixel mix option from GAMELISTVIEW settings, press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "Next Pixel mix".
 - **Enyoy!!!**
