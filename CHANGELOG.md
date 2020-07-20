@@ -1,4 +1,18 @@
 ### Changelog
+2020/XX/XX - 1.4
+- Add 64dd support
+- Add dragon support
+- Add easyrpg support
+- Add naomigd support (using same game theme as naomi)
+- Add auto-xxx support
+- Add snes game theme alternative
+- Add nes game theme alternative
+- Add a new mix that prioritize ingame screenshot instead of title screenshot
+- Change default system game theme
+- Remove nes_2 game theme and add it as snes_5 game theme as this is an image from snes game
+- Fix mix file pathes for Linux
+- Merge some changes from Recalbox Next theme assets
+
 2019/10/26 - 1.3
 - Add Next Pixel custom mix to enhance scraped images and video snaps integration
 - Add random system game theme script
