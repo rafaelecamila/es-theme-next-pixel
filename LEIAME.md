@@ -1,12 +1,12 @@
-### Olà e benvindo ao téma [Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
-This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a different game theme each time Recalbox is started (at least 2 game themes are available for each system).
-E baseado no tema recalbox-next, terà entao todas as ventagens (configurações de região, lista de jogos, etc...) + varias opções de vosso gosto.
+### Olá e bem-vindo(a) ao tema [Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
+Este tema foi projetado para exibir uma imagem em tela inteira para cada sistema que corresponda a uma ilustração ou arte da caixa do jogo no momento do início do jogo. Todos os sistemas exibirão aleatoriamente um tema de jogo diferente cada vez que o Recalbox for iniciado (pelo menos 2 temas de jogos estão disponíveis para cada sistema).
+É baseado no tema recalbox-next, terá entãoo, todas as ventagens (configurações de região, lista de jogos, etc...) + várias opções do seu gosto.
 
-**O tema está configurado por padrão para usar um mix personalizado para descartar as imagens do jogo. Leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outras misturas**.
+**O tema está configurado por padrão para usar um mix personalizado para encontrar as imagens do jogo. Leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outras composições**.
  
-**Tema é compativel com Recalbox 7.0+ e com écrã 16:9, 4:3 e pequenos écrãs 4:3 como o GPi CASE**.
+**O Tema é compativel com Recalbox 7.0+ e com telas 16:9, 4:3 e pequenas telas 4:3 como o GPi CASE**.
 
-Here are some screenshots of some available game themes :
+Aqui estão algumas capturas de tela de alguns temas de jogo disponíveis:
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/nes.png)
 
@@ -29,27 +29,27 @@ Here are some screenshots of some available game themes :
 Watch all game theme pictures from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
-### Installação
-Para instalar o tema faça drag-and-drop da apsta es-theme-next-pixel-xxx no vosso recalbox/themes folder. Depois mude es-theme-next-pixel-xxx nas opções de tema no Recalbox (UI SETTINGS > THEME > THEME SET).
+### Instalação
+Para instalar o tema arraste e solte a pasta es-theme-next-pixel-xxx em sua pasta recalbox/theme. Depois mude para o tema es-theme-next-pixel-xxx nas opções de tema no Recalbox (Configurações de Interface > TEMA > Configurar tema).
 
 
 ### Opções
-- **THEME COLORSET** : escolha entre várias configurações de cores sotaque claro, escuro ou de jogo, o sotaque do jogo colorirá alguns elementos usando uma imagem real do sistema, algumas configurações podem combinar sotaque claro, escuro e de jogo, tente-os para encontrar o melhor para você.
+- **THEME COLORSET** : escolha entre várias configurações de cores: claro, escuro ou de jogo, o destaque do jogo colorirá alguns elementos usando uma imagem real do sistema, algumas configurações podem combinar destaque claro, escuro e de jogo, tente-os para encontrar o melhor para você.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/color.gif)
 
 - **THEME ICONSET** : escolha ícones usados ​​para a ajuda inferior esquerda (o mesmo que recalbox-next).
-- **THEME MENU** : escolha Recalbox menu estilo (o mesmo que recalbox-next com um estylo esxlusivo do tema Next Pixel).
-- **THEME SYSTEMVIEW** : escolha entre a roda vertical ou a visualização horizontal do sistema; para cada uma delas há 3 opções para exibir informações do sistema (informações de 4 linhas, todas as informações de linhas ou nenhuma informação), **ao usar a roda vertical, use CONFIGURAÇÕES DA UI> TEMA> ESTILO DE TRANSIÇÃO> INSTANTÂNEO para uma melhor aparência**.
+- **THEME MENU** : escolha o estilo do Menu do Recalbox (o mesmo que recalbox-next com um estilo esxlusivo do tema Next Pixel).
+- **THEME SYSTEMVIEW** : escolha entre a roda vertical ou a visualização horizontal do sistema; para cada uma delas há 3 opções para exibir informações do sistema (informações de 4 linhas, todas as informações de linhas ou nenhuma informação), **ao usar a roda vertical, use CONFIGURAÇÕES DA INTERFACE> TEMA> ESTILO DE TRANSIÇÃO> INSTANTÂNEO para uma melhor aparência**.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/systemview.gif)
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/info.gif)
 
-- **THEME GAMELISTVIEW** : escolha o layout da visualização gamelist, você pode mostrar / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens scrapidas** (marque *Scraping/Next Pixel mix* abaixo para obter mais informações).
+- **THEME GAMELISTVIEW** : escolha o layout da visualização da lçista de jogos, você pode mostrar / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape** (marque *Scraping/Next Pixel mix* abaixo para obter mais informações).
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelistview.gif)
 
-- **THEME REGION** : choose your region to adjust logo/console to match your preferred region.
+- **THEME REGION** : escolha sua região para ajustar o logotipo / console para corresponder à sua região preferida.
 
 
 ### Scraping / Next Pixel mix
